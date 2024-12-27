@@ -9,6 +9,7 @@ export default defineConfig({
     siteTitle: "DuckCamp",
     nav: [
       { text: "Get Started", link: "/getting-started" },
+      { text: "Contact", link: "/contact" },
     ],
     socialLinks: [
       {
@@ -25,15 +26,18 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: "Guide",
+        text: "Docs",
         items: [
           { text: "Getting Started", link: "/getting-started" },
           { text: "TAM", link: "/tam" },
+          { text: "Buyout Calculator", link: "/buyout" },
           { text: "MVP and Feature Set", link: "/mvp" },
           { text: "User Stories", link: "/user-stories" },
           { text: "API Endpoints", link: "/apis" },
           { text: "Datastore", link: "/datastore" },
+          {text: "Cloud Services", link: "/cloud-services"},
           { text: "Style Guide", link: "/style-guide" },
+
         ],
       },
     ],
@@ -42,8 +46,8 @@ export default defineConfig({
       copyright: "Copyright 2024 DuckCamp",
     },
     editLink: {
-      pattern: "https://github.com/your-repo/docs/:path",
-      text: "Edit this page on GitHub",
+      pattern: "https://github.com/chaselikethebank/duck-camp-vite-press",
+      text: "Edit these Docs on GitHub",
     },
     docFooter: {
       prev: "Previous",
@@ -65,6 +69,6 @@ export default defineConfig({
         href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
       },
     ],
-    ["script", { src: "/script.js" }],
+    // ["script", { src: "/script.js" }],
   ],
 });

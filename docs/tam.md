@@ -7,7 +7,7 @@ sidebar: auto
 ## Starting Market
 
 ### Duck Camps:
-- Let's assume there are approximately 2,500 duck camps in the US (based on our previous conversation).
+- Let's assume there are approximately 2,500 duck camps in the US.
 
 ### Outfitters (including duck camps, big game hunting camps, fishing camps, goose camps, etc.):
 - Let's assume there are approximately 20,000 outfitters in the US (considering various types of outdoor guides and camps).
@@ -128,3 +128,6 @@ The valuation could be higher or lower based on factors such as:
 Is this something worth pursuing? Upfront costs, server costs, marketing, branding, time, etc 
 
 Where is the watershed of "this doesn't make sense" to "this makes sense"? 
+
+
+
