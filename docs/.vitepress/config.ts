@@ -31,6 +31,7 @@ export default defineConfig({
           { text: "Getting Started", link: "/getting-started" },
           { text: "TAM", link: "/tam" },
           { text: "Buyout Calculator", link: "/buyout" },
+          { text: "OnX Hunt Tech Stack", link: "/onX" },
           { text: "MVP and Feature Set", link: "/mvp" },
           { text: "User Stories", link: "/user-stories" },
           { text: "API Endpoints", link: "/apis" },

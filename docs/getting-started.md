@@ -30,3 +30,12 @@
     - re luanch brand add different hunt types - spin off for "Deer Camp", "Fish Camp" etc
 - Bring users to PE sell
 
+## Split 
+- Seed 
+- Equity
+- Split %
+- Roles 
+- Final Cut 
+
+
+
